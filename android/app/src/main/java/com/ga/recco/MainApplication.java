@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.ga.recco;
 
 import android.app.Application;
 
